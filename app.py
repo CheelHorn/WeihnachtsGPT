@@ -2,8 +2,6 @@ import os
 import streamlit as st
 from langchain.agents.agent import AgentExecutor
 from langchain.agents.openai_assistant import OpenAIAssistantRunnable
-from langchain.schema import HumanMessage, AIMessage
-import openai
 
 #Config 
 OPENAI_API_KEY = "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"
