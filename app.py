@@ -6,7 +6,7 @@ from langchain.schema import HumanMessage, AIMessage
 import openai
 
 #Config 
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "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"
 ASSISTANT_ID = "asst_LkR1OSraGqfg4O63ctpFSIlT"
 st.set_page_config(page_title="Nikolaus")
 
